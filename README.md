@@ -1,5 +1,4 @@
-# Compare two cryptocurrency exchanges and find the most profitable
-sale in the transfer.
+Compare two cryptocurrency exchanges and find the most profitable sale in the transfer.
 
 In the project directory, you can run:
 
