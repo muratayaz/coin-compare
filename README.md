@@ -1,6 +1,6 @@
 Compare two cryptocurrency exchanges and find the most profitable sale in the transfer.
 
-<img src = ""/>
+<img src = "public/coinholly.png"/>
 
 In the project directory, you can run:
 
