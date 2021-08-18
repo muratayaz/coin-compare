@@ -1,5 +1,7 @@
 Compare two cryptocurrency exchanges and find the most profitable sale in the transfer.
 
+<img src = ""/>
+
 In the project directory, you can run:
 
 ### `npm start`
